@@ -50,10 +50,10 @@ I build practical projects to strengthen my understanding of real-world systems 
 
 ## 📌 Featured Projects
 
-- 🔹 AI-Based Task Scheduling in Cloud Environments  
-- 🔹 Customer Churn Prediction Dashboard  
-- 🔹 Solar Power Predictive Controller  
-- 🔹 Machine Learning Model Training Pipelines  
+ 🔹 AI-Based Task Scheduling in Cloud Environments  
+ 🔹 Customer Churn Prediction Dashboard  
+ 🔹 Solar Power Predictive Controller  
+ 🔹 Machine Learning Model Training Pipelines  
 
 ---
 
