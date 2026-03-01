@@ -41,11 +41,12 @@ I build practical projects to strengthen my understanding of real-world systems 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gowthamreddy-dev&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowthamreddy-dev&layout=compact&theme=tokyonight" />
-</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 ---
 
 ## 📌 Featured Projects
