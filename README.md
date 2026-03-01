@@ -42,9 +42,9 @@ I build practical projects to strengthen my understanding of real-world systems 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gowthamreddy-dev&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowthamreddy-dev&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shaikasif346&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaikasif346&layout=compact&theme=tokyonight" />
 </p>
 ---
 
